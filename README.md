@@ -67,14 +67,9 @@ Run server
 
     bundle install
     rails server
-    bundle exec puma -C config/puma.rb -b tcp://127.0.0.1:3001
+    bundle exec puma -C config/puma.rb -b tcp://127.0.0.1:3000
 
 ./my_project
 
 
 ### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px' /></span>
-
